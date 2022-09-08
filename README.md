@@ -24,10 +24,10 @@ $ sudo apt-get install git
 
 ## :arrow_down: Installing and Using
 
-Clone the repository into a newliliyosa/monty.git:
+Clone the repository into a new directory:
 
 ```
-$ git clone https://github.com/Natzsmart/monty.git
+$ git clone https://github.com/liliyosa/monty.git
 ```
 Compile with the following:
 
