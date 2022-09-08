@@ -24,7 +24,7 @@ $ sudo apt-get install git
 
 ## :arrow_down: Installing and Using
 
-Clone the repository into a new directory:
+Clone the repository into a newliliyosa/monty.git:
 
 ```
 $ git clone https://github.com/Natzsmart/monty.git
